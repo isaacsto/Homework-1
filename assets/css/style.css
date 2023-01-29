@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Changed three separate classes to 'benefit' to save space because all the elements had the same styling */
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +103,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Changed three separate classes to 'sectionContent' to save space becaue all the elements had the same styling */
 
 .sectionContent {
     margin-bottom: 20px;
@@ -127,6 +131,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
